@@ -4,7 +4,7 @@
 let CACHE_NAME = "my-cache";
 let urlsToCache = [
   "style.css",
-  "/icon/maskable_icon_x192",
+  "/icon/maskable_icon_x192.png",
   "app.js",
   "workerinit.js",
 ];

@@ -5,6 +5,7 @@
   "background_color": "#3b3b3b",
   "theme_color": "#3b3b3b",
   "start_url": "/",
+  "prefer_related_applications": true,
   "icons": [
     {
       "src": "./icon/maskable_icon_x192.png",
