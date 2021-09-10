@@ -1,0 +1,21 @@
+{
+  "name": "ISS Tracker",
+  "short_name": "ISS",
+  "display": "standalone",
+  "background_color": "#3b3b3b",
+  "theme_color": "#3b3b3b",
+  "icons": [
+    {
+      "src": "./icon/maskable_icon_x192.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
